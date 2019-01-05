@@ -36,10 +36,10 @@
     "eventemitter2": "~2.2.0",
     "object-assign": "^4.0.1",
     "pngparse": "^2.0.1",
-    "ws": "^1.1.1",
+    "ws": "^6.1.2",
     "xmldom": "^0.1.19",
     "cbor-js": "^0.1.0",
-    "socket.io": "1.4.8"
+    "socket.io": "2.1.1"
   },
   "directories": {
     "example": "examples",
@@ -56,10 +56,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RobotWebTools/roslibjs/releases"
+    "url": "https://github.com/fudanglp/roslibjs/releases"
   },
   "bugs": {
-    "url": "https://github.com/RobotWebTools/roslibjs/issues"
+    "url": "https://github.com/fudanglp/roslibjs/issues"
   },
   "keywords": [
     "ROS",
